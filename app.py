@@ -139,44 +139,63 @@ else:
         # --- Lógica de visualización por tipo ---
         
         if not st.session_state.mostrar_resultado:
-            # MOSTRAR OPCIONES PARA RESPONDER
-            
-            if pregunta["tipo"] == "test":
-                opciones = pregunta["opciones"]
-                # Usamos radio button. El índice de la selección será la respuesta
-                # Truco: mostramos opciones pero internamente usamos el indice
-                opcion_elegida = st.radio("Selecciona una opción:", opciones, index=None)
+            # === AQUÍ ESTÁ EL CAMBIO IMPORTANTE: USAMOS UN FORMULARIO ===
+            # El formulario evita que la página se recargue al seleccionar una opción
+            with st.form(key=f"formulario_pregunta_{st.session_state.indice}"):
                 
-                if st.button("Comprobar Respuesta", type="primary"):
-                    if opcion_elegida:
-                        idx_respuesta = opciones.index(opcion_elegida)
-                        verificar_respuesta(pregunta, idx_respuesta)
-                    else:
-                        st.warning("Selecciona una opción primero")
+                respuesta_a_enviar = None
+                tipo_envio = ""
 
-            elif pregunta["tipo"] == "corchetes":
-                grupos = re.findall(r'\[([^\]]+)\]', pregunta["texto"])
-                respuestas_usuario = []
-                
-                st.write("Selecciona la palabra correcta para cada hueco:")
-                
-                todos_seleccionados = True
-                for i, grupo in enumerate(grupos):
-                    opciones = [op.strip() for op in grupo.split("|")]
-                    random.shuffle(opciones)
-                    seleccion = st.selectbox(f"Hueco {i+1}:", ["..."] + opciones, key=f"g_{st.session_state.indice}_{i}")
-                    if seleccion == "...":
-                        todos_seleccionados = False
-                    respuestas_usuario.append(seleccion)
-                
-                if st.button("Comprobar Respuesta", type="primary"):
+                if pregunta["tipo"] == "test":
+                    opciones = pregunta["opciones"]
+                    # Mostramos opciones (radio buttons)
+                    opcion_elegida = st.radio("Selecciona una opción:", opciones, index=None)
+                    tipo_envio = "test"
+                    respuesta_a_enviar = opcion_elegida
+
+                elif pregunta["tipo"] == "corchetes":
+                    grupos = re.findall(r'\[([^\]]+)\]', pregunta["texto"])
+                    respuestas_usuario = []
+                    
+                    st.write("Selecciona la palabra correcta para cada hueco:")
+                    
+                    todos_seleccionados = True
+                    # Usamos un seed temporal para que el shuffle sea estable dentro de la misma pregunta
+                    # si se recargara, pero el form lo evita principalmente.
+                    semilla_visual = st.session_state.indice * 100 
+                    
+                    for i, grupo in enumerate(grupos):
+                        opciones = [op.strip() for op in grupo.split("|")]
+                        # Mezclamos usando una semilla fija para esta pregunta para que no bailen las opciones
+                        random.Random(semilla_visual + i).shuffle(opciones)
+                        
+                        seleccion = st.selectbox(f"Hueco {i+1}:", ["..."] + opciones, key=f"g_{st.session_state.indice}_{i}")
+                        if seleccion == "...":
+                            todos_seleccionados = False
+                        respuestas_usuario.append(seleccion)
+                    
+                    tipo_envio = "corchetes"
                     if todos_seleccionados:
-                        verificar_respuesta(pregunta, respuestas_usuario)
+                        respuesta_a_enviar = respuestas_usuario
                     else:
-                        st.warning("Rellena todos los huecos")
+                        respuesta_a_enviar = None
+
+                # Botón de envío del formulario
+                boton_enviar = st.form_submit_button("Comprobar Respuesta", type="primary")
+
+            # === LÓGICA AL PULSAR EL BOTÓN DEL FORMULARIO ===
+            if boton_enviar:
+                if respuesta_a_enviar is not None:
+                    if tipo_envio == "test":
+                        idx_respuesta = pregunta["opciones"].index(respuesta_a_enviar)
+                        verificar_respuesta(pregunta, idx_respuesta)
+                    elif tipo_envio == "corchetes":
+                        verificar_respuesta(pregunta, respuesta_a_enviar)
+                else:
+                    st.warning("⚠️ Por favor, completa todas las opciones antes de comprobar.")
 
         else:
-            # MOSTRAR RESULTADO Y BOTÓN SIGUIENTE
+            # MOSTRAR RESULTADO Y BOTÓN SIGUIENTE (Fuera del formulario)
             if "✅" in st.session_state.mensaje_resultado:
                 st.success(st.session_state.mensaje_resultado)
             else:
