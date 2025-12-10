@@ -1,0 +1,1017 @@
+[
+    {
+        "tipo": "corchetes",
+        "tema": 1,
+        "texto": "Según The Standish Group, en los últimos años se ha dado aproximadamente un [ 5% | 30% | 15% ] de proyectos exitosos, [ 75% | 50% | 65% ] discutidos, y 20% de fracasos.",
+        "respuesta": ["30%", "50%"]
+    },
+    {
+        "tipo": "test",
+        "tema": 1,
+        "texto": "Según The Standish Group, entre las causas exógenas del fracaso del software se encuentran...",
+        "opciones": [
+            "los usuarios finales, los requisitos y las expectativas.",
+            "el soporte ejecutivo, los recursos y la competencia tecnológica.",
+            "los objetivos, los cronogramas y la formación.",
+            "los requisitos, los cronogramas y el coste final."
+        ],
+        "respuesta": "a"
+    },
+    {
+        "tipo": "test",
+        "tema": 1,
+        "texto": "Según The Standish Group, entre las causas endógenas del fracaso del software se encuentran...",
+        "opciones": [
+            "los usuarios finales, los requisitos y las expectativas.",
+            "el soporte ejecutivo, los recursos y la competencia tecnológica.",
+            "los objetivos, los cronogramas y la formación.",
+            "los requisitos, los cronogramas y el coste final."
+        ],
+        "respuesta": "b"
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 1,
+        "texto": "Según The Standish Group, una causa endógena del fracaso software es atender más al [ dónde | cuándo | cómo ] que al [ para quién | qué | porqué ].",
+        "respuesta": ["cómo", "qué"]
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 1,
+        "texto": "Según The Standish Group, el fracaso software se debe, entre otros, a [ requisitos | cronogramas ] incompletos, [ inversiones | expectativas ] no realistas y [ objetivos | procedimientos ] ambiguos.",
+        "respuesta": ["requisitos", "expectativas", "objetivos"]
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 1,
+        "texto": "Los tres pilares sobre los que se fundamenta la calidad en sus orígenes son [ medidas | satisfacción ], [ procedimientos | normas ] y [ revisión | sanciones ].",
+        "respuesta": ["medidas", "normas", "sanciones"]
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 1,
+        "texto": "La producción en cadena de Taylor se basaba en la [ especialización | satisfacción ] del trabajador, el [ control del tiempo | proceso ] y la [ mecanización | diversificación ].",
+        "respuesta": ["especialización", "control del tiempo", "mecanización"]
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 1,
+        "texto": "Tres familias de normas asociadas con la calidad son [ ISO 9000 | RD 34/2002 ], [ Siete Valores | Seis-Sigma ] y [ EFQM | NEREA ].",
+        "respuesta": ["ISO 9000", "Seis-Sigma", "EFQM"]
+    },
+    {
+        "tipo": "test",
+        "tema": 1,
+        "texto": "Según Garvin, a la calidad reconocible, pero no definible, se la conoce como calidad...",
+        "opciones": [
+            "trascendente.",
+            "basada en valor.",
+            "intrascendente.",
+            "subjetiva."
+        ],
+        "respuesta": "a"
+    },
+    {
+        "tipo": "test",
+        "tema": 1,
+        "texto": "Según Garvin, a la satisfactoria adecuación a las necesidades del cliente se la conoce como calidad...",
+        "opciones": [
+            "de cliente.",
+            "de usuario.",
+            "de fabricación.",
+            "basada en valor."
+        ],
+        "respuesta": "b"
+    },
+    {
+        "tipo": "test",
+        "tema": 1,
+        "texto": "Según Garvin, a la calidad derivada de las cualidades inherentes a un producto se la denomina calidad...",
+        "opciones": [
+            "inherente.",
+            "de producto.",
+            "de fabricación.",
+            "háptica."
+        ],
+        "respuesta": "b"
+    },
+    {
+        "tipo": "test",
+        "tema": 1,
+        "texto": "Según Garvin, a la calidad asociada a la empresa productora se la denomina calidad...",
+        "opciones": [
+            "de especificación.",
+            "de proceso.",
+            "de fabricación.",
+            "basada en producto."
+        ],
+        "respuesta": "c"
+    },
+    {
+        "tipo": "test",
+        "tema": 1,
+        "texto": "Según Garvin, a la calidad asociada al interés y urgencia del cliente se la denomina calidad...",
+        "opciones": [
+            "potencial.",
+            "de usuario.",
+            "de cliente.",
+            "basada en valor."
+        ],
+        "respuesta": "d"
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 1,
+        "texto": "Definimos calidad como la conformidad con las expectativas [ de producto | de información ], [ de proceso | de gestión ] y humanas, de [ todos | los clientes ] los implicados en un proyecto.",
+        "respuesta": ["de producto", "de proceso", "todos"]
+    },
+
+    {
+        "tipo": "corchetes",
+        "tema": 2,
+        "texto": "Según Alan Davis, el software se desarrolla para satisfacer [ demandas | necesidades | a clientes ] reales y resolver demandas [ reales | universales | empresariales ].",
+        "respuesta": ["necesidades", "reales"]
+    },
+    {
+        "tipo": "test",
+        "tema": 2,
+        "texto": "Según Alan Davis, ¿quién es la persona más importante de un proyecto?",
+        "opciones": [
+            "El desarrollador.",
+            "El comercial.",
+            "El usuario.",
+            "El analista o quien recabe los requisitos."
+        ],
+        "respuesta": "c"
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 2,
+        "texto": "Para definir los objetivos de un proyecto, se requiere conocer la [ motivación | organización ], las [ funcionalidades | finalidades ] y los [ plazos | usuarios ].",
+        "respuesta": ["motivación", "finalidades", "plazos"]
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 2,
+        "texto": "El primer objetivo de la recolección de requisitos es estudiar el [ contexto | cliente | usuario ] del [ sistema | negocio | producto ].",
+        "respuesta": ["contexto", "negocio"]
+    },
+    {
+        "tipo": "test",
+        "tema": 2,
+        "texto": "La necesidad \"procedimental\" de un cliente implica que...",
+        "opciones": [
+            "el cliente necesita documentar sus soluciones informáticas.",
+            "el cliente necesita revisar sus procedimientos antes de comenzar el proyecto.",
+            "el cliente necesita revisar sus procedimientos antes de informatizarlos.",
+            "el cliente necesita revisar la funcionalidad de sus aplicaciones informáticas."
+        ],
+        "respuesta": "c"
+    },
+    {
+        "tipo": "test",
+        "tema": 2,
+        "texto": "La necesidad \"directiva\" de un cliente implica que...",
+        "opciones": [
+            "el cliente presenta necesidades primordialmente resolubles mediante tecnología.",
+            "el cliente requiere soluciones informáticas para la dirección de la entidad.",
+            "el cliente solicita un proyecto externalizado bajo nuestra dirección.",
+            "el cliente pretende solventar problemas organizativos mediante la automatización de procesos."
+        ],
+        "respuesta": "d"
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 2,
+        "texto": "Para definir el ámbito de un proyecto, se requiere conocer sus [ usuarios | requisitos ], la [ infraestructura | entidad ] y la [ entidad | explotación ].",
+        "respuesta": ["usuarios", "infraestructura", "explotación"]
+    },
+    {
+        "tipo": "test",
+        "tema": 2,
+        "texto": "El objetivo del diagnóstico al estudiar una demanda de un cliente es...",
+        "opciones": [
+            "establecer los requisitos funcionales del sistema.",
+            "saber si tengo interés y capacidad para hacerlo.",
+            "definir los requisitos de información del sistema.",
+            "Todas las respuestas son correctas."
+        ],
+        "respuesta": "b"
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 2,
+        "texto": "Además de Pruebas, la parte de Desarrollo de una memoria de proyecto contiene los capítulos [ Análisis | Planificación ], [ Diseño | Análisis ] [ y Diseño | e Implementación ].",
+        "respuesta": ["Análisis", "Diseño", "e Implementación"]
+    },
+    {
+        "tipo": "test",
+        "tema": 2,
+        "texto": "¿Qué debe contener la sección \"Conceptos básicos\" de una memoria de proyectos?",
+        "opciones": [
+            "Las siglas y los acrónimos.",
+            "Las definiciones necesarias para entender el modelo.",
+            "La explicación de todos los términos técnicos que pudiera no entender el cliente.",
+            "Cualquier anotación de interés para entender la memoria."
+        ],
+        "respuesta": "b"
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 2,
+        "texto": "Se denomina [ Portabilidad y compatibilidad | Estado del arte | Análisis de mercado ] a la sección de la Introducción del proyecto donde se revisan sistemas existentes [ similares a | portables y/o compatibles con | incompatibles con ] nuestro proyecto.",
+        "respuesta": ["Estado del arte", "similares a"]
+    },
+    {
+        "tipo": "test",
+        "tema": 2,
+        "texto": "Un objetivo de la recolección de requisitos es...",
+        "opciones": [
+            "estudiar el contexto del negocio.",
+            "conocer el sistema actual.",
+            "determinar necesidades y límites.",
+            "Todas las respuestas son correctas."
+        ],
+        "respuesta": "a"
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 2,
+        "texto": "Las tres fases principales de una recolección de requisitos son la [ presentación | preparación ], la [ recolección | entrevista ] y la [ despedida | revisión ], por este orden.",
+        "respuesta": ["preparación", "recolección", "revisión"]
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 2,
+        "texto": "Según el principio de Dilbert, las compañías tienden a [ ascender | degradar ] a sus empleados [ más | menos ] competentes a [ directivos | otras categorías contractuales ].",
+        "respuesta": ["ascender", "menos", "directivos"]
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 2,
+        "texto": "Según el corolario de Peter, las personas que hacen [ mal | muy mal | bien ] su trabajo suelen ser promocionadas hasta volverse [ más competentes | aún más competentes | incompetentes ].",
+        "respuesta": ["bien", "incompetentes"]
+    },
+    {
+        "tipo": "test",
+        "tema": 2,
+        "texto": "Según Dunning-Kruger, los individuos incompetentes...",
+        "opciones": [
+            "tienden a refugiarse en su incompetencia para evitar responsabilidades.",
+            "tienden a sobreestimar sus propias habilidades.",
+            "tienden a evitar tomar decisiones.",
+            "tienden a trabajar más duramente para compensar esta condición."
+        ],
+        "respuesta": "b"
+    },
+    {
+        "tipo": "test",
+        "tema": 2,
+        "texto": "La competencia real se logra con el tiempo mediante...",
+        "opciones": [
+            "mérito, formación y competencia.",
+            "principios, integridad y determinación.",
+            "experiencia, esfuerzo y capacidad.",
+            "colaboración, liderazgo y trabajo en equipo."
+        ],
+        "respuesta": "c"
+    },
+
+    {
+        "tipo": "corchetes",
+        "tema": 3,
+        "texto": "En desarrollo de soluciones comprende dos dominios: el dominio del [ cliente | problema | contexto ] y el dominio de la [ tecnología | aplicación | solución ].",
+        "respuesta": [
+            "problema",
+            "solución"
+        ]
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 3,
+        "texto": "En el análisis de requisitos, los [ atributos | campos ] de todas las [ entidades | acciones ] deben encontrarse en el dominio [ del problema | de la solución ].",
+        "respuesta": [
+            "atributos",
+            "entidades",
+            "del problema"
+        ]
+    },
+    {
+        "tipo": "test",
+        "tema": 3,
+        "texto": "Del análisis de requisitos debe obtenerse una relación...",
+        "opciones": [
+            "de las necesidades del cliente.",
+            "de alternativas tecnológicas.",
+            "de objetivos y del ámbito del problema.",
+            "de todos los componentes del sistema."
+        ],
+        "respuesta": "a"
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 3,
+        "texto": "La fase de [ Análisis | Implementación | Pruebas ] [ es parte de | no depende de | determina ] la solución tecnológica final.",
+        "respuesta": [
+            "Análisis",
+            "no depende de"
+        ]
+    },
+    {
+        "tipo": "test",
+        "tema": 3,
+        "texto": "En el ámbito del desarrollo software, un actor es...",
+        "opciones": [
+            "todo perfil relacionado con el dominio del problema.",
+            "todo perfil que actúa directamente con el sistema.",
+            "básicamente un usuario.",
+            "Todas las respuestas son correctas."
+        ],
+        "respuesta": "b"
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 3,
+        "texto": "Los requisitos [ no funcionales | funcionales | de información ] representan acciones que realiza el [ sistema | actor | usuario ].",
+        "respuesta": [
+            "funcionales",
+            "sistema"
+        ]
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 3,
+        "texto": "La denominación de un requisito funcional tiene la forma [ nombre | Crear | verbo ] + [ nombre | adjetivo | acción ].",
+        "respuesta": [
+            "verbo",
+            "nombre"
+        ]
+    },
+    {
+        "tipo": "test",
+        "tema": 3,
+        "texto": "Indica qué expresión no es un requisito funcional correcto.",
+        "opciones": [
+            "Crear Aula.",
+            "Eliminar Usuario.",
+            "Alquilar Vehículo.",
+            "Imprimir Factura."
+        ],
+        "respuesta": "c"
+    },
+    {
+        "tipo": "test",
+        "tema": 3,
+        "texto": "Indica qué expresión no es un requisito funcional correcto.",
+        "opciones": [
+            "Actualizar Producto.",
+            "Visualizar Factura.",
+            "Rechazar Solicitud.",
+            "Enviar Confirmación."
+        ],
+        "respuesta": "b"
+    },
+    {
+        "tipo": "test",
+        "tema": 3,
+        "texto": "Indica el requisito funcional denominado correctamente.",
+        "opciones": [
+            "Consultar Datos de usuario.",
+            "Mostrar incidencia.",
+            "Ver Proveedor.",
+            "Comprar Vehículo."
+        ],
+        "respuesta": "b"
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 3,
+        "texto": "La denominación de un requisito funcional para guardar la corrección de un examen, incluyendo anotaciones, se denomina [ Crear | Corregir | Calificar ] [ Examen | Corrección | Test ].",
+        "respuesta": [
+            "Crear",
+            "Corrección"
+        ]
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 3,
+        "texto": "Los requisitos [ funcionales | no funcionales | de información ] pueden obtenerse de la norma ISO/IEC 25000 ([ SPICE | SQuaRE | EFQM ]).",
+        "respuesta": [
+            "no funcionales",
+            "SQuaRE"
+        ]
+    },
+    {
+        "tipo": "test",
+        "tema": 3,
+        "texto": "El diagrama que representa los requisitos de información se denomina diagrama...",
+        "opciones": [
+            "de relaciones.",
+            "Entidad-Relación.",
+            "de entidades.",
+            "conceptual."
+        ],
+        "respuesta": "d"
+    },
+    {
+        "tipo": "test",
+        "tema": 3,
+        "texto": "Los requisitos funcionales se representan visualmente como...",
+        "opciones": [
+            "casos de uso.",
+            "entidades.",
+            "agrupaciones funcionales.",
+            "actores."
+        ],
+        "respuesta": "a"
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 3,
+        "texto": "Un diagrama de casos de uso contiene [ actores | entidades ], [ entidades | agrupaciones funcionales ] y [ requisitos no funcionales | casos de uso ].",
+        "respuesta": [
+            "actores",
+            "agrupaciones funcionales",
+            "casos de uso"
+        ]
+    },
+    {
+        "tipo": "test",
+        "tema": 3,
+        "texto": "Las agrupaciones funcionales generalmente contienen los casos de uso que atañen...",
+        "opciones": [
+            "al mismo actor.",
+            "a la misma entidad.",
+            "al mismo requisito funcional.",
+            "al mismo dominio del problema."
+        ],
+        "respuesta": "b"
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 3,
+        "texto": "En los requisitos [ funcionales | de información ] se describen los [ datos | casos de uso ] necesarios para cumplir los requisitos [ de información | funcionales ].",
+        "respuesta": [
+            "de información",
+            "datos",
+            "funcionales"
+        ]
+    },
+    {
+        "tipo": "test",
+        "tema": 3,
+        "texto": "Con relación al análisis, escoge la opción correcta.",
+        "opciones": [
+            "Un actor puede representar a varios usuarios.",
+            "Un actor representa a un usuario.",
+            "Existe un único actor principal, pero puede haber varios secundarios.",
+            "Un actor puede representar a varios perfiles de usuario."
+        ],
+        "respuesta": "a"
+    },
+    {
+        "tipo": "test",
+        "tema": 4,
+        "texto": "La gestión de la información comprende considerar...",
+        "opciones": [
+            "los campos, las tablas y sus relaciones.",
+            "los datos, su estructura y su gestión.",
+            "la gestión del conocimiento y su aplicación.",
+            "los principios de Dilbert, Peter y Dunning-Kruger."
+        ],
+        "respuesta": "b"
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 4,
+        "texto": "Definimos \"dato\" como un contenido informativo [ mínimo | requerido ] y completamente [ significativo | veraz ] en el dominio [ de la solución | del problema ].",
+        "respuesta": [
+            "mínimo",
+            "significativo",
+            "del problema"
+        ]
+    },
+    {
+        "tipo": "test",
+        "tema": 4,
+        "texto": "Según Celko, implementar un almacén de datos con pobre calidad de datos puede aumentar su costo...",
+        "opciones": [
+            "en un 100%.",
+            "en un 50%.",
+            "en un 25%.",
+            "en un 120%."
+        ],
+        "respuesta": "a"
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 4,
+        "texto": "Los efectos de la edición y tratamiento de datos sin criterio son problemas de [ búsqueda | almacenamiento ], pérdida de [ información | interés ] e [ inconsistencia | integridad ] formal.",
+        "respuesta": [
+            "búsqueda",
+            "información",
+            "inconsistencia"
+        ]
+    },
+    {
+        "tipo": "test",
+        "tema": 4,
+        "texto": "¿Cuál de estos factores producen polución de datos?",
+        "opciones": [
+            "Ausencia de integridad referencial.",
+            "Redundancia no controlada.",
+            "Antonimia terminológica.",
+            "Todas las respuestas son correctas."
+        ],
+        "respuesta": "b"
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 4,
+        "texto": "La calidad de [ datos | información ] es la capacidad para describir la [ realidad útil | realidad compleja ] en el contexto en el que se [ comparten | consultan ].",
+        "respuesta": [
+            "datos",
+            "realidad útil",
+            "consultan"
+        ]
+    },
+    {
+        "tipo": "test",
+        "tema": 4,
+        "texto": "Las normas ISO están orientadas a ordenar y establecer niveles...",
+        "opciones": [
+            "de gestión y administración.",
+            "de garantías de cumplimiento.",
+            "de gestión y desarrollo.",
+            "de homogeneidad y calidad."
+        ],
+        "respuesta": "d"
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 4,
+        "texto": "Según Celko, la mitad del [ coste | tiempo ] total de implementar un almacén de datos ([ data mining | data warehouse ]) puede deberse a la [ complejidad | pobre calidad ] de datos.",
+        "respuesta": [
+            "coste",
+            "data warehouse",
+            "pobre calidad"
+        ]
+    },
+    {
+        "tipo": "test",
+        "tema": 4,
+        "texto": "¿Qué características debe tener un usuario para garantizar la calidad de los datos que gestiona?",
+        "opciones": [
+            "Formación, capacidad y actitud.",
+            "Experiencia, conocimiento y predisposición.",
+            "Implicación, autoridad y convicción.",
+            "Resolución y cultura de empresa."
+        ],
+        "respuesta": "a"
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 4,
+        "texto": "Según Gartner Inc., la [ complejidad | mala organización | pobre calidad ] de datos ha sido una de las causas de fracaso más importantes en los proyectos de [ reingeniería | final de siglo | gestión ].",
+        "respuesta": [
+            "pobre calidad",
+            "reingeniería"
+        ]
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 4,
+        "texto": "Guardar la edad de una persona en la base de datos puede dar lugar a incumplir el requisito de [ Completitud | Credibilidad | Actualidad ] de la norma ISO/IEC [ 25010 | 12207 | 25012 ].",
+        "respuesta": [
+            "Actualidad",
+            "25012"
+        ]
+    },
+    {
+        "tipo": "test",
+        "tema": 4,
+        "texto": "Un jugador puede participar en varias ligas y viceversa. Dicha relación se almacenará en la tabla...",
+        "opciones": [
+            "Jugador_Liga.",
+            "Liga.",
+            "Jugador.",
+            "Participa."
+        ],
+        "respuesta": "a"
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 4,
+        "texto": "La raza de una persona debe almacenarse en el campo [ raza | nombre ] de la tabla [ Persona | Raza ], y ser [ índice único | índice ].",
+        "respuesta": [
+            "nombre",
+            "Raza",
+            "índice único"
+        ]
+    },
+    {
+        "tipo": "test",
+        "tema": 4,
+        "texto": "¿Qué beneficio tiene la regla de identificador universal?",
+        "opciones": [
+            "Consistencia y garantía de concurrencia.",
+            "Mayor eficiencia en la búsqueda.",
+            "Independiza la clave del dominio del problema.",
+            "Todas las respuestas son correctas."
+        ],
+        "respuesta": "d"
+    },
+    {
+        "tipo": "test",
+        "tema": 4,
+        "texto": "En una tabla Partido, el campo de referencia al equipo local debe denominarse...",
+        "opciones": [
+            "local_id",
+            "equipo_local_id",
+            "equipo1_id",
+            "Ninguna de las otras respuestas es correcta."
+        ],
+        "respuesta": "b"
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 4,
+        "texto": "La clave primaria de una tabla [ Colores | Color ] necesaria para almacenar el nombre de los colores debe ser [ id | color ], de tipo [ entero autoincremental | texto ].",
+        "respuesta": [
+            "Color",
+            "id",
+            "entero autoincremental"
+        ]
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 4,
+        "texto": "Para obtener todos y cada uno de los registros de dos tablas relacionadas sólo cuando hay relación, se emplea preferiblemente [ INNER | SELECT | JOIN ] [ IN | JOIN | TABLES ].",
+        "respuesta": [
+            "INNER",
+            "JOIN"
+        ]
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 5,
+        "texto": "Según Huang, las empresas deben gestionar la [calidad | información y el conocimiento ] como [activo | propósito] principal, para [ crecer | sobrevivir y prosperar ].",
+        "respuesta": [
+            "información y el conocimiento",
+            "activo",
+            "sobrevivir y prosperar"
+        ]
+    },
+    {
+        "tipo": "test",
+        "tema": 5,
+        "texto": "La calidad en la gestión de la información atañe a...",
+        "opciones": [
+            "cómo se trata y protege la información.",
+            "cuál es el patrón taxonómico de la información.",
+            "cuáles son los detalles de la información.",
+            "el cumplimiento del estándar ISO/IEC 25000."
+        ],
+        "respuesta": "a"
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 5,
+        "texto": "La calidad en la información se determina por las características de los datos que permiten su [localización | portabilidad ], [ fiabilidad | tratamiento ] y [actualidad | comprensión ].",
+        "respuesta": [
+            "localización",
+            "tratamiento",
+            "comprensión"
+        ]
+    },
+    {
+        "tipo": "test",
+        "tema": 5,
+        "texto": "En cualquier sistema de información, el contexto es...",
+        "opciones": [
+            "una entidad del modelo conceptual.",
+            "dependiente del dominio de la solución.",
+            "determinante.",
+            "parte de la planificación."
+        ],
+        "respuesta": "c"
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 5,
+        "texto": "El conocimiento se conforma en la intersección entre [ experiencia | hipótesis | verdad ] y [demostración | creencia | aprendizaje ].",
+        "respuesta": [
+            "verdad",
+            "creencia"
+        ]
+    },
+    {
+        "tipo": "test",
+        "tema": 5,
+        "texto": "Indica la frase correcta.",
+        "opciones": [
+            "No hay conocimiento sin razonamiento.",
+            "No hay conocimiento sin interpretación.",
+            "No hay aprendizaje sin demostración.",
+            "No hay verdad sin demostración."
+        ],
+        "respuesta": "b"
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 5,
+        "texto": "Las principales normas para el tratamiento de datos son la [ISO 25010 | RPGD 679/2016 | ISO/IEC 25507] y la [ CMMI | LSSICE 11/2002 | LOPDGDD 3/2018].",
+        "respuesta": [
+            "RPGD 679/2016",
+            "LOPDGDD 3/2018"
+        ]
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 5,
+        "texto": "Según Redman, la política de gestión de información interna a una organización implica a un [Responsable | Consultor], los [Suministradores | Usuarios] y los [Desarrolladores | Guardianes].",
+        "respuesta": [
+            "Responsable",
+            "Suministradores",
+            "Guardianes"
+        ]
+    },
+    {
+        "tipo": "test",
+        "tema": 5,
+        "texto": "Todo integrante de la organización asumirá que los datos y procesos que ésta haya creado...",
+        "opciones": [
+            "son respectivamente correctos y adecuados.",
+            "son propiedad de la organización.",
+            "son propiedad de la alta dirección.",
+            "Ninguna de las otras respuestas es correcta."
+        ],
+        "respuesta": "b"
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 5,
+        "texto": "El responsable de los sistemas de información deberá mantener un inventario actualizado de [datos | campos ], [ estructura | disponibilidad] y [procedimientos | calidad ].",
+        "respuesta": [
+            "datos",
+            "disponibilidad",
+            "calidad"
+        ]
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 5,
+        "texto": "Según Redman, mientras el responsable [implementa la gestión | promueve la calidad | mantiene el inventario ], el suministrador [implementa la gestión | promueve la calidad | mantiene el inventario ].",
+        "respuesta": [
+            "mantiene el inventario",
+            "implementa la gestión"
+        ]
+    },
+    {
+        "tipo": "test",
+        "tema": 5,
+        "texto": "Entre otras, en un CPD debe evitarse...",
+        "opciones": [
+            "bandejas de condensación.",
+            "conducciones horizontales.",
+            "suelo técnico.",
+            "techo técnico."
+        ],
+        "respuesta": "a"
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 5,
+        "texto": "Las actualizaciones de sistemas críticos conviene no hacerlas por [la noche tarde | la mañana temprano | hacer un favor], porque es probable que no [se termine a tiempo | lo agradezca nadie | paguen las horas extras ].",
+        "respuesta": [
+            "la mañana temprano",
+            "se termine a tiempo"
+        ]
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 5,
+        "texto": "Definidos por el Reglamento General sobre Protección de Datos europeo REU 679/2016 y en la Ley Orgánica [10 | 3] de 2018, los datos personales constituyen [toda información | información sensible] sobre una persona [ física | física o jurídica ] identificada o identificable, directa o indirectamente.",
+        "respuesta": [
+            "3",
+            "toda información",
+            "física"
+        ]
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 6,
+        "texto": "Las dos normas fundamentales relativas al [proceso | producto] software son [ISO 33000 | ISO 12207] y [SPICE | CMMI].",
+        "respuesta": [
+            "proceso",
+            "ISO 33000",
+            "CMMI"
+        ]
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 6,
+        "texto": "Las características asignadas [determinan | no determinan] el potencial de un producto software, [ pero | y] [no interesan | interesan ] para medir la calidad.",
+        "respuesta": [
+            "no determinan",
+            "y",
+            "no interesan"
+        ]
+    },
+    {
+        "tipo": "test",
+        "tema": 6,
+        "texto": "Las características del producto software de interés para determinar su calidad son...",
+        "opciones": [
+            "las inherentes, o específicas de dominio y calidad.",
+            "las asignadas, o de gestión.",
+            "las asignadas, o específicas de dominio y calidad.",
+            "las inherentes, o de gestión."
+        ],
+        "respuesta": "a"
+    },
+    {
+        "tipo": "test",
+        "tema": 6,
+        "texto": "Los criterios de la métrica \"adecuación funcional\" de la ISO/IEC 25010 son....",
+        "opciones": [
+            "temporal, recursos y capacidad.",
+            "completitud, corrección y pertinencia.",
+            "adaptabilidad, instalación y reemplazo.",
+            "coexistencia, interacción y recuperación."
+        ],
+        "respuesta": "b"
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 6,
+        "texto": "La accesibilidad es el grado en el que un sistema puede ser utilizado por [las personas discapacitadas | todas las personas] independientemente de sus [capacidades | habilidades ].",
+        "respuesta": [
+            "todas las personas",
+            "capacidades"
+        ]
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 6,
+        "texto": "El ciclo de vida del software es un [marco de referencia | proceso técnico ] que contiene los procesos, actividades y tareas involucradas en el desarrollo, explotación y [mantenimiento | pruebas ] desde la definición de requisitos hasta [su entrega | la finalización de su uso ].",
+        "respuesta": [
+            "marco de referencia",
+            "mantenimiento",
+            "la finalización de su uso"
+        ]
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 6,
+        "texto": "Tres ciclos de vida son [cascada | XP], [scrum | prototipos] y [evolutivo | transaccional].",
+        "respuesta": [
+            "cascada",
+            "prototipos",
+            "evolutivo"
+        ]
+    },
+    {
+        "tipo": "test",
+        "tema": 6,
+        "texto": "Una ventaja del modelo evolutivo incremental es que...",
+        "opciones": [
+            "requiere menos personal que otros ciclos de vida.",
+            "habilita entregas frecuentes de versiones funcionales.",
+            "facilita la medición de plazos y costes.",
+            "no contempla iteraciones."
+        ],
+        "respuesta": "b"
+    },
+    {
+        "tipo": "test",
+        "tema": 6,
+        "texto": "La regla de Pareto afirma que...",
+        "opciones": [
+            "el 80% de las causas generan el 20% de las incidencias.",
+            "el 20% de las causas generan el 80% de las incidencias.",
+            "el 20% de las incidencias generan el 80% de las causas.",
+            "el 80% de las incidencias generan el 20% de las causas."
+        ],
+        "respuesta": "b"
+    },
+    {
+        "tipo": "test",
+        "tema": 6,
+        "texto": "Los tipos de mantenimiento son...",
+        "opciones": [
+            "correctivo, adaptativo, preventivo y productivo.",
+            "correctivo, adaptativo, perfectivo y preventivo.",
+            "adaptativo, perceptivo, orientativo y prescriptivo.",
+            "implementativo, preventivo, activo y preceptivo."
+        ],
+        "respuesta": "b"
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 7,
+        "texto": "La calidad [ organizativa | del proceso software] depende de la [actitud | productividad ] de los [trabajadores | clientes ].",
+        "respuesta": [
+            "organizativa",
+            "actitud",
+            "trabajadores"
+        ]
+    },
+    {
+        "tipo": "test",
+        "tema": 7,
+        "texto": "El Efecto Pigmalión se define como el efecto por el cual...",
+        "opciones": [
+            "las personas incompetentes se consideran más competentes que la media.",
+            "las personas responden en proporción al modo en el que se les trata.",
+            "las personas que desean ascender degradan la relación entre los demás trabajadores.",
+            "Ninguna de las otras respuestas es correcta."
+        ],
+        "respuesta": "b"
+    },
+    {
+        "tipo": "test",
+        "tema": 7,
+        "texto": "En cuanto a la motivación, los factores de higiene...",
+        "opciones": [
+            "motivan en determinados contextos de afiliación.",
+            "motivan para los trabajadores Y.",
+            "motivan para los trabajadores X.",
+            "no motivan, pero son necesarios para motivar."
+        ],
+        "respuesta": "d"
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 7,
+        "texto": "Según Herzberg, los factores de higiene se denominan también [ extrínsecos | intrínsecos | neutros] o de [satisfacción | insatisfacción | de motivación].",
+        "respuesta": [
+            "extrínsecos",
+            "insatisfacción"
+        ]
+    },
+    {
+        "tipo": "test",
+        "tema": 7,
+        "texto": "Qué elemento de los siguientes no forma parte de los factores de higiene.",
+        "opciones": [
+            "Sueldo.",
+            "Reconocimiento.",
+            "Supervisión.",
+            "Seguridad laboral."
+        ],
+        "respuesta": "b"
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 7,
+        "texto": "Según la teoría de la equidad de John Adams, si un [trabajador | cliente] es tratado con [indiferencia | injusticia ], tenderá a [abandonar el proyecto | compensar ].",
+        "respuesta": [
+            "trabajador",
+            "injusticia",
+            "compensar"
+        ]
+    },
+    {
+        "tipo": "test",
+        "tema": 7,
+        "texto": "La motivación es...",
+        "opciones": [
+            "el origen de toda reacción.",
+            "el origen de toda acción.",
+            "el origen de todo propósito.",
+            "Ninguna de las otras respuestas es correcta."
+        ],
+        "respuesta": "b"
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 7,
+        "texto": "Actitudes complementarias, comunicación y objetivo común, entre otros, definen a un [colectivo | equipo | departamento] de [trabajo | empresa | personas ].",
+        "respuesta": [
+            "equipo",
+            "trabajo"
+        ]
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 7,
+        "texto": "Para que un trabajador M4 pase a un M3, se requiere [confianza | descontento | experiencia] y [bienestar | reconocimiento | frustración].",
+        "respuesta": [
+            "descontento",
+            "frustración"
+        ]
+    },
+    {
+        "tipo": "test",
+        "tema": 7,
+        "texto": "Un perfil focalizado en obtener un resultado final es un perfil orientado...",
+        "opciones": [
+            "a la tarea.",
+            "a las relaciones.",
+            "al liderazgo.",
+            "a la estrategia."
+        ],
+        "respuesta": "a"
+    }
+]
