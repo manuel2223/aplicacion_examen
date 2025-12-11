@@ -1,0 +1,1061 @@
+[
+    {
+        "tipo": "test",
+        "tema": 1,
+        "texto": "Según Adam Smith, la riqueza se define como...",
+        "opciones": [
+            "el patrimonio neto menos las deudas.",
+            "la cantidad de empresas per cápita.",
+            "la capacidad para satisfacer demanda.",
+            "la diferencia patrimonial respecto de la media."
+        ],
+        "respuesta": "c"
+    },
+    {
+        "tipo": "test",
+        "tema": 1,
+        "texto": "Si un comerciante vende una bebida alcohólica fuera de la hora permitida por la ley, ¿ha generado riqueza?",
+        "opciones": [
+            "No, porque la venta es ilegal.",
+            "No, porque vende un producto perjudicial para la salud.",
+            "Sí, porque satisface una demanda mediante la correspondiente contraprestación.",
+            "Sólo si el comprador no es menor de edad."
+        ],
+        "respuesta": "c"
+    },
+    {
+        "tipo": "test",
+        "tema": 1,
+        "texto": "La inflación se produce por...",
+        "opciones": [
+            "aumento de precios respecto a los sueldos.",
+            "aumento de dinero en circulación respecto a la riqueza.",
+            "aumento de oferta respecto a la demanda.",
+            "Todas las respuestas son correctas."
+        ],
+        "respuesta": "b"
+    },
+    {
+        "tipo": "test",
+        "tema": 1,
+        "texto": "Un delantero del Real Madrid cobra de media significativamente más que un delantero del Cádiz FC porque...",
+        "opciones": [
+            "mete significativamente más goles.",
+            "existe un significativo odio histórico hacia los andaluces.",
+            "nada. Esa afirmación no es cierta.",
+            "el Real Madrid satisface significativamente mayor demanda que el Cádiz FC."
+        ],
+        "respuesta": "d"
+    },
+    {
+        "tipo": "test",
+        "tema": 1,
+        "texto": "Selecciona la opción correcta:",
+        "opciones": [
+            "Una empresa tiene una oferta que una demanda convierte en un producto.",
+            "Un cliente tiene una necesidad que una empresa convierte en realidad.",
+            "Un cliente tiene un proyecto que un producto convierte en realidad.",
+            "Una empresa tiene un producto que una necesidad convierte en una demanda."
+        ],
+        "respuesta": "b"
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 1,
+        "texto": "En la generación de riqueza, la oferta se relaciona con [ cantidad | precio | urgencia ] y [ moneda | precio | urgencia ].",
+        "respuesta": [
+            "cantidad",
+            "precio"
+        ]
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 1,
+        "texto": "En la generación de riqueza, la demanda se relaciona con [ cantidad | precio | urgencia ] y [ moneda | precio | urgencia ].",
+        "respuesta": [
+            "cantidad",
+            "urgencia"
+        ]
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 1,
+        "texto": "Definimos 'economía' como el sistema que estudia o activa formas de [ comercio | administración | mercado ] de los recursos [ escasos | existentes | demandados ] para satisfacer las necesidades humanas.",
+        "respuesta": [
+            "administración",
+            "escasos"
+        ]
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 1,
+        "texto": "Definimos 'comercio' como la actividad de [ competencia | cooperación ] basada en [ la generación | el intercambio ] de bienes y servicios a cambio de otros de [ mayor | igual ] valor.",
+        "respuesta": [
+            "cooperación",
+            "el intercambio",
+            "igual"
+        ]
+    },
+    {
+        "tipo": "test",
+        "tema": 1,
+        "texto": "Definimos 'mercado' como...",
+        "opciones": [
+            "el conjunto de actividades comerciales realizadas por los empresarios.",
+            "el conjunto de intercambios comerciales realizados por los empresarios.",
+            "el conjunto de beneficios comerciales obtenidos por los agentes financieros.",
+            "el conjunto de intercambios comerciales realizados por los agentes económicos."
+        ],
+        "respuesta": "d"
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 1,
+        "texto": "El precio de los productos aumenta si [ disminuye | se mantiene | da igual lo que haga ] la oferta y [ disminuye | se mantiene | da igual lo que haga ] la demanda.",
+        "respuesta": [
+            "disminuye",
+            "se mantiene"
+        ]
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 1,
+        "texto": "El precio de los productos disminuye si [ disminuye | se mantiene | da igual lo que haga ] la oferta y [ disminuye | aumenta | da igual lo que haga ] la demanda.",
+        "respuesta": [
+            "se mantiene",
+            "disminuye"
+        ]
+    },
+    {
+        "tipo": "test",
+        "tema": 2,
+        "texto": "Definimos 'economía digital' como...",
+        "opciones": [
+            "la actividad comercial que se basa en las Tecnologías de la Investigación y el Conocimiento (TIC) para su desarrollo y difusión.",
+            "la actividad digital que se basa en las Tecnologías de la Información y la Comunicación (TIC) para su desarrollo y difusión.",
+            "la actividad económica que se basa en las Tecnologías de la Información y la Comunicación (TIC) para su desarrollo y difusión.",
+            "la actividad digital que se basa en las Tecnologías de la Información y el Conocimiento (TIC) para su desarrollo y difusión."
+        ],
+        "respuesta": "c"
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 2,
+        "texto": "El negocio electrónico implica el uso [ estratégico | corporativo ] de aplicaciones [ informáticas | de gestión y administración ] para la gestión de los [ servicios de negocio on-line | procesos ] de una empresa.",
+        "respuesta": [
+            "estratégico",
+            "informáticas",
+            "procesos"
+        ]
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 2,
+        "texto": "La misión de una empresa o 'su razón de ser', como propósito estratégico, determinará, entre otros, tipos de [ clientes | inversores ] a satisfacer, [ productos | beneficios ] que ofrece y [ expansión | límites ] de sus actividades.",
+        "respuesta": [
+            "clientes",
+            "productos",
+            "límites"
+        ]
+    },
+    {
+        "tipo": "test",
+        "tema": 2,
+        "texto": "La visión de una empresa indica...",
+        "opciones": [
+            "hacia dónde se dirige la organización.",
+            "su razón de ser.",
+            "los principios sobre los que se asienta su cultura.",
+            "el contrato de la empresa con la sociedad."
+        ],
+        "respuesta": "a"
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 2,
+        "texto": "Los valores de una empresa, como propósito estratégico, determinarán, entre otros, [ moral y ética | beneficios ], [ costes | creencias ] y exposición en [ la comunidad | el mercado ].",
+        "respuesta": [
+            "moral y ética",
+            "creencias",
+            "la comunidad"
+        ]
+    },
+    {
+        "tipo": "test",
+        "tema": 2,
+        "texto": "Las unidades funcionales fundamentales generales de una empresa son...",
+        "opciones": [
+            "finanzas, personal, producción, externalización, comercial y dirección.",
+            "finanzas, personal, producción, externalización, comercial, desarrollo, asesoría y dirección.",
+            "finanzas, personal, producción, comercial, soporte, asesoría y dirección.",
+            "finanzas, externalización, comercial, soporte, producción, personal, dirección y asesoría."
+        ],
+        "respuesta": "c"
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 2,
+        "texto": "Las operaciones del área [ de producción | financiera | comercial ] deben atenerse a las normas publicadas en [ el Plan General de Contabilidad | los Presupuestos Generales del Estado | la Agenda 2030 ] aplicables en España.",
+        "respuesta": [
+            "financiera",
+            "el Plan General de Contabilidad"
+        ]
+    },
+    {
+        "tipo": "test",
+        "tema": 2,
+        "texto": "La herramienta de gestión que permite evaluar y visualizar las habilidades, competencias y potencial de los empleados se denomina...",
+        "opciones": [
+            "diagrama de personal.",
+            "matriz de talentos.",
+            "modelo competencial.",
+            "lista de capacitación-área."
+        ],
+        "respuesta": "b"
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 2,
+        "texto": "Los tres diagramas generales de estructura organizativa de una empresa son [ financiero | vertical ], [ productivo | horizontal ] y [ relacional | comercial ].",
+        "respuesta": [
+            "vertical",
+            "horizontal",
+            "relacional"
+        ]
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 2,
+        "texto": "La estructura vertical de la empresa lo conforman, de abajo a arriba, dirección [ operativa | departamental ], dirección [ intermedia | ejecutiva ] y [ gestión de | alta ] dirección.",
+        "respuesta": [
+            "operativa",
+            "intermedia",
+            "alta"
+        ]
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 2,
+        "texto": "Los departamentos I+D+i, Comercial y Contabilidad pertenecen respectivamente a las áreas [ Desarrollo | Producción ], [ Comercial | Soporte ] y [ Financiera | Asesoría ].",
+        "respuesta": [
+            "Producción",
+            "Comercial",
+            "Financiera"
+        ]
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 2,
+        "texto": "Se emplea un diagrama de [ estructura de relaciones | estructura social | adulación-aversión ] para prever, entre otros, los efectos derivados de los [ riesgos | contratos | conflictos ] laborales.",
+        "respuesta": [
+            "estructura de relaciones",
+            "conflictos"
+        ]
+    },
+    {
+        "tipo": "test",
+        "tema": 2,
+        "texto": "El CEO de una empresa es el...",
+        "opciones": [
+            "responsable de la planificación económica y financiera.",
+            "responsable de la creación y distribución de productos.",
+            "máximo responsable de la gestión y dirección administrativa.",
+            "responsable de ventas, publicidad, estudios de mercado y servicio al cliente."
+        ],
+        "respuesta": "c"
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 2,
+        "texto": "Un ERP es una aplicación para la [ gestión departamental | gestión integrada | gestión financiera ] de los diferentes [ servicios | módulos | niveles ] de una empresa.",
+        "respuesta": [
+            "gestión integrada",
+            "módulos"
+        ]
+    },
+    {
+        "tipo": "test",
+        "tema": 3,
+        "texto": "En el contexto de la economía disruptiva, la economía colaborativa...",
+        "opciones": [
+            "no persigue necesariamente que haya contraprestación económica entre las partes.",
+            "persigue que haya contraprestación económica entre las partes.",
+            "persigue contraprestación entre las partes, pero no necesariamente económica.",
+            "Ninguna de las otras respuestas es correcta."
+        ],
+        "respuesta": "a"
+    },
+    {
+        "tipo": "test",
+        "tema": 3,
+        "texto": "En el contexto de la economía disruptiva, la economía de acceso...",
+        "opciones": [
+            "actúa como intermediaria entre las partes, habiendo o no contraprestación económica.",
+            "actúa como intermediaria para un servicio profesional entre empresa y consumidor.",
+            "Ninguna de las otras respuestas es correcta.",
+            "facilita el servicio entre las partes, pero sin servicio propio de intermediación."
+        ],
+        "respuesta": "d"
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 3,
+        "texto": "Los elementos de la economía digital, según Mesenbourg, son [ infraestructura | comunicaciones ], [ comunicaciones | demanda externa ] e [ industria TIC | inteligencia de negocio ].",
+        "respuesta": [
+            "infraestructura",
+            "demanda externa",
+            "industria TIC"
+        ]
+    },
+    {
+        "tipo": "test",
+        "tema": 3,
+        "texto": "El método SCA de la Directiva UE 2366/2015 exige...",
+        "opciones": [
+            "verificar usando dos tipos de tres posibles.",
+            "añadir a la autenticación un código externo.",
+            "recabar el correo electrónico del cliente.",
+            "una contraseña y una pregunta clave."
+        ],
+        "respuesta": "a"
+    },
+    {
+        "tipo": "test",
+        "tema": 3,
+        "texto": "¿Qué tipo de servicio se incluye en la Ley 34/2002 (LSSICE)?",
+        "opciones": [
+            "Servicios de radiodifusión sonora.",
+            "Teletexto televisivo y equivalente.",
+            "Servicios de videodifusión en ubicaciones físicas especializadas.",
+            "Envío de comunicaciones comerciales."
+        ],
+        "respuesta": "d"
+    },
+    {
+        "tipo": "test",
+        "tema": 3,
+        "texto": "Según el artículo 16 de la Ley 34/2002, los proveedores de servicio...",
+        "opciones": [
+            "en todo caso deben retirar o impedir el acceso de todo contenido ilegal.",
+            "son siempre responsables de los contenidos ilegales.",
+            "son responsables de un contenido ilegal si participa en su elaboración.",
+            "interrumpirán o retirarán los contenidos referidos en el artículo 8."
+        ],
+        "respuesta": "c"
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 3,
+        "texto": "Según la Ley 34/2002 (LSSICE), las sanciones máximas para los tipos leve, graves y muy graves son, respectivamente, [ 30 000 € | 3000 € ], [ 50 000 € | 150 000 € ] y [ 1 500 000 € | 600 000 € ].",
+        "respuesta": [
+            "30 000 €",
+            "150 000 €",
+            "1 500 000 €"
+        ]
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 3,
+        "texto": "El Aviso Legal es el documento por el cual la entidad prestadora informa sobre las [ normas | actividades | autoridades ] que regulan el [ acceso a la web | uso del servicio | tratamiento de información ].",
+        "respuesta": [
+            "normas",
+            "uso del servicio"
+        ]
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 3,
+        "texto": "El Aviso Legal debe informar, entre otros, del [ propietario | dominio ], de la [ dirección IP | actividad ] y de la [ política de cookies | versión ] del sitio.",
+        "respuesta": [
+            "propietario",
+            "actividad",
+            "política de cookies"
+        ]
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 3,
+        "texto": "En el ámbito de la información y las telecomunicaciones, una cookie es un pequeño archivo [ de texto | binario | de texto o binario ] creado en el [ cliente | servidor | router ] y que contiene información.",
+        "respuesta": [
+            "de texto",
+            "cliente"
+        ]
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 3,
+        "texto": "La Ley de Cookies tiene como objeto fundamental proteger a los [ menores | usuarios | trabajadores ] contra las [ cookies de terceros | webs ilegales | páginas para adultos ].",
+        "respuesta": [
+            "usuarios",
+            "cookies de terceros"
+        ]
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 3,
+        "texto": "En Laravel, los métodos para obtener y establecer una cookie son, respectivamente, [ cookie | getCookie | get ] y [ cookie | setCookie | set ].",
+        "respuesta": [
+            "cookie",
+            "cookie"
+        ]
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 3,
+        "texto": "Los sistemas de recomendaciones ayudan a asociar, de manera [ unívoca | personalizada ], un [ producto | contenido ] a un [ usuario | valor subjetivo ].",
+        "respuesta": [
+            "personalizada",
+            "producto",
+            "usuario"
+        ]
+    },
+    {
+        "tipo": "test",
+        "tema": 3,
+        "texto": "Los sistemas de recomendación basados en conocimiento hacen recomendaciones...",
+        "opciones": [
+            "sobre la base del nivel académico del cliente.",
+            "sobre la base de la información demográfica del cliente.",
+            "sobre la base de las preferencias conocidas del cliente.",
+            "sobre la base del conocimiento de perfiles afines al cliente."
+        ],
+        "respuesta": "b"
+    },
+    {
+        "tipo": "test",
+        "tema": 3,
+        "texto": "Los sistemas de recomendación basados en contenido hacen recomendaciones...",
+        "opciones": [
+            "sobre la base de las elecciones y valoraciones del cliente.",
+            "sobre la base de la información demográfica del cliente.",
+            "sobre la base del contenido elegido por perfiles afines al cliente.",
+            "sobre la base de la clasificación por edades del contenido."
+        ],
+        "respuesta": "a"
+    },
+    {
+        "tipo": "test",
+        "tema": 3,
+        "texto": "Los sistemas de recomendación basados en filtrado colaborativo hacen recomendaciones...",
+        "opciones": [
+            "sobre la base de las elecciones y valoraciones del cliente.",
+            "sobre la base de la información demográfica del cliente.",
+            "sobre la base del contenido elegido y valorado por perfiles afines al cliente.",
+            "sobre la base de la información extraíble de redes sociales."
+        ],
+        "respuesta": "c"
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 4,
+        "texto": "El deep-learning usa redes neuronales para modelar [información | patrones | la inteligencia ] mediante funciones y [ pesos | lambda-C | machine learning ].",
+        "respuesta": [
+            "patrones",
+            "pesos"
+        ]
+    },
+    {
+        "tipo": "test",
+        "tema": 4,
+        "texto": "La inteligencia artificial busca originalmente...",
+        "opciones": [
+            "desarrollar sistemas autónomos.",
+            "la resolución de problemas por ahora irresolubles.",
+            "la simulación de la inteligencia humana.",
+            "alcanzar la singularidad."
+        ],
+        "respuesta": "c"
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 4,
+        "texto": "Un data mart es un subconjunto de datos orientados a un [ grupo | ODS | ETL ], generalmente obtenidos de un [ data warehouse | ODS | algoritmo genético ].",
+        "respuesta": [
+            "grupo",
+            "data warehouse"
+        ]
+    },
+    {
+        "tipo": "test",
+        "tema": 4,
+        "texto": "Indica la respuesta correcta.",
+        "opciones": [
+            "Deep learning es una rama de machine learning, que es una rama de la inteligencia artificial.",
+            "Machine learning es una rama de deep learning, que es una rama de la inteligencia artificial.",
+            "La inteligencia artificial es una rama de machine learning, que es una rama de deep learning.",
+            "La inteligencia artificial es una rama de deep learning, que es una rama de machine learning."
+        ],
+        "respuesta": "a"
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 4,
+        "texto": "El resultado de k-Nearest Neightborg depende de la [ distribución | clasificación ], [ k | el azar ] y la fórmula de la [ raíz | distancia ].",
+        "respuesta": [
+            "distribución",
+            "k",
+            "distancia"
+        ]
+    },
+    {
+        "tipo": "test",
+        "tema": 4,
+        "texto": "Ante la misma distribución de información, la diferencia en el resultado de k-Nearest Neightborg depende...",
+        "opciones": [
+            "de k.",
+            "de si es o no función determinista.",
+            "del tiempo.",
+            "del azar."
+        ],
+        "respuesta": "a"
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 4,
+        "texto": "La técnica de clustering consiste en una clasificación [ supervisada | no supervisada | taxonómica ] de patrones en [ clusters | servidores | diccionarios ].",
+        "respuesta": [
+            "no supervisada",
+            "clusters"
+        ]
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 4,
+        "texto": "Además de las entradas y la salida, una neurona simple típica tiene [ pesos | sesgos ], [ profundidad | sesgos ] y [ función de transformación | profundidad ].",
+        "respuesta": [
+            "pesos",
+            "sesgos",
+            "función de transformación"
+        ]
+    },
+    {
+        "tipo": "test",
+        "tema": 4,
+        "texto": "Sobre las redes neuronales simples...",
+        "opciones": [
+            "cada entrada tiene un peso.",
+            "cada peso tiene un sesgo.",
+            "cada entrada tiene un sesgo.",
+            "cada peso tiene un sesgo."
+        ],
+        "respuesta": "a"
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 4,
+        "texto": "En un algoritmo genético, los [ genotipos | núcleos | axones ] pasan por una función [ fitness | JGAP | fenotipo ].",
+        "respuesta": [
+            "genotipos",
+            "fitness"
+        ]
+    },
+    {
+        "tipo": "test",
+        "tema": 4,
+        "texto": "El problema del viajante puede resolverse en tiempo lineal mediante...",
+        "opciones": [
+            "enfoque clásico.",
+            "enfoque evolutivo.",
+            "enfoque de distancias.",
+            "enfoque lineal."
+        ],
+        "respuesta": "b"
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 4,
+        "texto": "La solución de un problema mediante enfoque [ clásico | evolutivo ] resulta de orden [ logarítmico | lineal ] y [ no garantiza | garantiza ] una solución óptima.",
+        "respuesta": [
+            "evolutivo",
+            "lineal",
+            "no garantiza"
+        ]
+    },
+    {
+        "tipo": "test",
+        "tema": 4,
+        "texto": "Señala la respuesta incorrecta.",
+        "opciones": [
+            "La causalidad implica relación.",
+            "La causalidad implica correlación.",
+            "La correlación implica causalidad.",
+            "La correlación implica relación."
+        ],
+        "respuesta": "c"
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 4,
+        "texto": "Un valor de r=-0.97 implica una [ causalidad | correlación | distribución ] [ media | muy alta | muy baja ].",
+        "respuesta": [
+            "correlación",
+            "muy alta"
+        ]
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 4,
+        "texto": "Un data warehouse se define como una colección de datos organizados por [ inteligencia artificial | temas ], integrados, [ variables | estables ] en el tiempo y no [ redundantes | volátiles ].",
+        "respuesta": [
+            "temas",
+            "variables",
+            "volátiles"
+        ]
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 4,
+        "texto": "Los procesos ETL integran y [ reconcilian | almacenan | redistribuyen ] datos de fuentes de información [ heterogéneas | compatibles | centralizadas ] y distribuidas.",
+        "respuesta": [
+            "reconcilian",
+            "heterogéneas"
+        ]
+    },
+    {
+        "tipo": "test",
+        "tema": 5,
+        "texto": "Qué elemento de los indicados no es un elemento de la comunicación.",
+        "opciones": [
+            "Mensaje.",
+            "Intención.",
+            "Ruido.",
+            "Canal."
+        ],
+        "respuesta": "b"
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 5,
+        "texto": "Completa la frase: El [ emisor | receptor ] da la interpretación al [ contexto | mensaje ] en función de la decodificación real y el [ ruido | mensaje ].",
+        "respuesta": [
+            "receptor",
+            "mensaje",
+            "ruido"
+        ]
+    },
+    {
+        "tipo": "test",
+        "tema": 5,
+        "texto": "Problemas derivados de la mala comunicación en el ámbito laboral son la falacia del feedback, el conflicto por interpretación y...",
+        "opciones": [
+            "los contextos no informados.",
+            "el ruido del mensaje.",
+            "resultados improductivos.",
+            "Ninguna de las otras respuestas es correcta."
+        ],
+        "respuesta": "c"
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 5,
+        "texto": "Según Pereira y Ishikaza, en general, los modelos de evaluación tienden a ser tan [ complejos | confusos | objetivos ] como [ inapropiados | ineficientes | prescindibles ].",
+        "respuesta": [
+            "complejos",
+            "ineficientes"
+        ]
+    },
+    {
+        "tipo": "test",
+        "tema": 5,
+        "texto": "Según Wine, ante una crítica o evaluación...",
+        "opciones": [
+            "los individuos suelen aprender.",
+            "los individuos siempre responden naturalmente.",
+            "debe observarse al que critica, no al criticado.",
+            "los individuos no siempre responden naturalmente."
+        ],
+        "respuesta": "d"
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 5,
+        "texto": "Según Buckingham y Goodall, la evaluación suele cubrir atributos [ estándares | objetivos ], [ subjetivos | limitados ] y [ similares | rígidos ].",
+        "respuesta": [
+            "estándares",
+            "limitados",
+            "rígidos"
+        ]
+    },
+    {
+        "tipo": "test",
+        "tema": 5,
+        "texto": "Según Pinker y Wine, y sobre el cuestionamiento de la falacia de feedback, ...",
+        "opciones": [
+            "los celebros no tienen un conocimiento preconcebido y siempre responden ante la crítica.",
+            "los celebros tienen un conocimiento preconcebido y siempre responden ante la crítica.",
+            "los celebros no tienen un conocimiento preconcebido y no siempre responden ante la crítica.",
+            "los celebros tienen un conocimiento preconcebido y no siempre responden ante la crítica."
+        ],
+        "respuesta": "d"
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 5,
+        "texto": "Según Camacho Monge, un evaluador siempre tiene [ dudas | sesgos ] sobre [ lo que | cómo ] evalúa y [ a quién | para qué ] evalúa.",
+        "respuesta": [
+            "sesgos",
+            "lo que",
+            "a quién"
+        ]
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 5,
+        "texto": "Los trabajadores suelen [ sobreinterpretar | malinterpretar ] los correos como más [ negativos | positivos ] o neutrales que la intención del emisor.",
+        "respuesta": [
+            "malinterpretar",
+            "negativos"
+        ]
+    },
+    {
+        "tipo": "test",
+        "tema": 5,
+        "texto": "Indica la respuesta incorrecta.",
+        "opciones": [
+            "Los remitentes comunican emociones involuntariamente.",
+            "Las características del canal hacen que la comunicación sea errónea.",
+            "La falta de comunicación emocional afecta a las organizaciones.",
+            "Los receptores suelen interpretar los correos personales como más negativos o neutrales."
+        ],
+        "respuesta": "d"
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 5,
+        "texto": "Una respuesta [ eficaz | objetiva ] persigue el mismo objetivo que una respuesta [ subjetiva | ineficaz ], pero evitando [ conflictos | una respuesta emocional ].",
+        "respuesta": [
+            "eficaz",
+            "ineficaz",
+            "conflictos"
+        ]
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 5,
+        "texto": "La falacia del feedback consiste en creer que alguien lo hará [ mejor | peor | igual ] si [ otra persona | su jefe | a quien consulta ] le dice cómo hacerlo.",
+        "respuesta": [
+            "mejor",
+            "otra persona"
+        ]
+    },
+    {
+        "tipo": "test",
+        "tema": 5,
+        "texto": "La expresión 'es la segunda vez que te pasa' tiene la condición de...",
+        "opciones": [
+            "acusación.",
+            "prejuicio.",
+            "insistencia.",
+            "exigencia."
+        ],
+        "respuesta": "a"
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 5,
+        "texto": "Como estrategia de comunicación, suele preferirse sustituir aseveraciones [ directas | indirectas | subjetivas ] por [ datos | experiencias | opiniones ].",
+        "respuesta": [
+            "directas",
+            "experiencias"
+        ]
+    },
+    {
+        "tipo": "test",
+        "tema": 5,
+        "texto": "¿Cuál de estas fórmulas es preferible para alentar la motivación?",
+        "opciones": [
+            "Me parece una buena idea, pero no está suficientemente detallada.",
+            "Me parece una buena idea, pero necesito más detalle.",
+            "Necesito más detalle, pero tu idea me parece buena.",
+            "Se requeriría más detalle, pero la idea me parece buena."
+        ],
+        "respuesta": "c"
+    },
+    {
+        "tipo": "test",
+        "tema": 5,
+        "texto": "Indica qué hacer en caso de conflicto.",
+        "opciones": [
+            "Tratar de apaciguar a la otra parte.",
+            "Abandonar la comunicación hasta mejor ocasión.",
+            "Plantear argumentos desde un plano constructivo.",
+            "No presuponer los motivos de la otra parte."
+        ],
+        "respuesta": "d"
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 5,
+        "texto": "Ante una petición de asistencia adicional, conviene a proponer una [ prueba de fuerza | condición | norma ] para constatar [ necesidad | interés | colaboración ] por la otra parte.",
+        "respuesta": [
+            "prueba de fuerza",
+            "interés"
+        ]
+    },
+    {
+        "tipo": "test",
+        "tema": 5,
+        "texto": "La falacia del hombre paja consiste en...",
+        "opciones": [
+            "devolver un argumento basado en falsos preceptos.",
+            "convertir el argumento recibido en una caricatura y contraargumentar la caricatura.",
+            "obviar el argumento mediante la estrategia de cambiar el objeto de la discusión.",
+            "responder al argumento empleando el argumento de una figura de autoridad."
+        ],
+        "respuesta": "b"
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 5,
+        "texto": "Concluir mediante una explicación [ genérica | específica ], [ indemostrable | demostrable o no ], se denomina falacia [ ad-hoc | ad-lazarum ].",
+        "respuesta": [
+            "específica",
+            "demostrable o no",
+            "ad-hoc"
+        ]
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 5,
+        "texto": "La falacia de la causa [ cuestionable | disformante | estimada ] consiste en emplear la [ información | causalidad | correlación ] como si fuera causa.",
+        "respuesta": [
+            "cuestionable",
+            "correlación"
+        ]
+    },
+    {
+        "tipo": "test",
+        "tema": 5,
+        "texto": "¿Qué frase se ajusta a la falacia de 'ningún escocés verdadero'?",
+        "opciones": [
+            "Todos los programadores son introvertidos.",
+            "Un programador extrovertido no es realmente un programador.",
+            "Casi ningún programador es extrovertido.",
+            "Como está solo en la sección de informática de la biblioteca, debe de ser un programador."
+        ],
+        "respuesta": "b"
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 6,
+        "texto": "El neuromarketing se define como la aplicación de métodos [ publicitarios | neurocientíficos ] para controlar el [ comportamiento | instinto ] humano relacionado con el [ consumo | deseo ].",
+        "respuesta": [
+            "neurocientíficos",
+            "comportamiento",
+            "consumo"
+        ]
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 6,
+        "texto": "Según la [ Gestalt | ciencia ], la interpretación de objetos [ dinámicos | ambiguos ] en más de una forma se denomina [ reificación | multiestabilidad ].",
+        "respuesta": [
+            "Gestalt",
+            "ambiguos",
+            "multiestabilidad"
+        ]
+    },
+    {
+        "tipo": "test",
+        "tema": 6,
+        "texto": "Según la Gestalt, la tendencia del ser humano de reconocer formas sobre fondos se denomina...",
+        "opciones": [
+            "reificación.",
+            "emergencia.",
+            "prospección.",
+            "cierre."
+        ],
+        "respuesta": "b"
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 6,
+        "texto": "La percepción de información [ espacial | temporal | estética ] no explícita por parte del cerebro se denomina [ cierre | reificación | continuidad ].",
+        "respuesta": [
+            "espacial",
+            "reificación"
+        ]
+    },
+    {
+        "tipo": "test",
+        "tema": 6,
+        "texto": "La dualidad perceptiva provocada por una misma imagen se denomina...",
+        "opciones": [
+            "reificación.",
+            "contextualización.",
+            "multiestibilidad.",
+            "semejanza."
+        ],
+        "respuesta": "c"
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 6,
+        "texto": "La invarianza es una propiedad perceptiva según la cual los objetos son reconocidos independientemente de su [ contexto | iluminación ], [ rotación | dimensiones ] y [ función | escala ].",
+        "respuesta": [
+            "iluminación",
+            "rotación",
+            "escala"
+        ]
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 6,
+        "texto": "Se denomina 'cierre' a la tendencia a percibir [ ambigua | reificada | continua ] una [ línea | figura | imagen ] discontinua.",
+        "respuesta": [
+            "continua",
+            "línea"
+        ]
+    },
+    {
+        "tipo": "test",
+        "tema": 6,
+        "texto": "En igualdad del resto de condiciones, tendemos a...",
+        "opciones": [
+            "percibir al mismo nivel los elementos como entes individuales.",
+            "dar preponderancia perceptiva a los elementos semejantes.",
+            "percibir como parte de una misma estructura u objeto elementos semejantes.",
+            "dar preponderancia estructural a los elementos no semejantes."
+        ],
+        "respuesta": "c"
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 6,
+        "texto": "Si un estímulo se constituye por un conjunto de elementos [ similares | diversos ], la percepción del receptor tiende a [ descartar | agrupar ] los más [ diferentes | similares ] entre sí.",
+        "respuesta": [
+            "diversos",
+            "agrupar",
+            "similares"
+        ]
+    },
+    {
+        "tipo": "test",
+        "tema": 6,
+        "texto": "En igualdad del resto de condiciones, tendemos a...",
+        "opciones": [
+            "percibir los elementos individuales como parte de una misma estructura u objeto.",
+            "percibir los elementos próximos como parte de una misma estructura u objeto.",
+            "dar preponderancia perceptiva a los elementos próximos.",
+            "percibir los elementos contenedores como parte de una misma estructura u objeto."
+        ],
+        "respuesta": "b"
+    },
+    {
+        "tipo": "test",
+        "tema": 6,
+        "texto": "Cuando una figura continua es interrumpida por un obstáculo de similar forma y color a la de dicha figura, ...",
+        "opciones": [
+            "el obstáculo no impide la percepción de continuidad.",
+            "se tiende a percibir el obstáculo como parte de la figura.",
+            "se tiende a percibir dos líneas y el obstáculo.",
+            "se percibe una figura nueva, sin conservar necesariamente la continuidad."
+        ],
+        "respuesta": "a"
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 6,
+        "texto": "La metáfora del cerebro triuno presenta las partes del cerebro [ reptiliano | primigenio ], [ sensitivo-emocional | paleomamífero ] y [ neomamífero | trascendente-cognitivo ].",
+        "respuesta": [
+            "reptiliano",
+            "paleomamífero",
+            "neomamífero"
+        ]
+    },
+    {
+        "tipo": "test",
+        "tema": 6,
+        "texto": "Los tres cerebros de la metáfora del triuno se ubicarían físicamente, respectivamente, en...",
+        "opciones": [
+            "el tronco cerebral, la amigadala y el neocórtex.",
+            "el sistema límbico, el tronco cerebral y la amígdala.",
+            "el tronco cerebral, la amígdala y el neocórtex.",
+            "el tronco cerebral, el sistema límbico y el neocórtex."
+        ],
+        "respuesta": "d"
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 6,
+        "texto": "La [ consciencia | reproducción | agresividad ] forma parte del cerebro [ neomamífero | paleomamífero | sensitivo-emocional ].",
+        "respuesta": [
+            "consciencia",
+            "neomamífero"
+        ]
+    },
+    {
+        "tipo": "test",
+        "tema": 6,
+        "texto": "El cerebro paleomamífero recoge...",
+        "opciones": [
+            "la abstracción y la necesidad grupal.",
+            "la necesidad grupal y la sexualidad.",
+            "los hábitos y la necesidad grupal.",
+            "los hábitos y la abstracción."
+        ],
+        "respuesta": "c"
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 6,
+        "texto": "[ Elecciones | Abstracción ] y [ predicción | aprendizaje por experiencia ] no son atribuciones del cerebro [ paleomamífero | neomamífero ].",
+        "respuesta": [
+            "Elecciones",
+            "aprendizaje por experiencia",
+            "neomamífero"
+        ]
+    },
+    {
+        "tipo": "test",
+        "tema": 6,
+        "texto": "Amor y odio, instinto de conservación y respuestas emocionales forman parte, respectivamente, de los cerebros...",
+        "opciones": [
+            "paleomamífero, reptiliano y paleomamífero.",
+            "paleomamífero, paleomamífero y reptiliano.",
+            "reptiliano, neocórtex y paleomamífero.",
+            "paleomamífero, reptilano y neocórtex."
+        ],
+        "respuesta": "a"
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 6,
+        "texto": "Atribuciones del cerebro neomamífero son la [ imaginación | necesidad grupal | respuesta emocional ] y el [ aprendizaje por experiencia | lenguaje | piloto automático ].",
+        "respuesta": [
+            "imaginación",
+            "lenguaje"
+        ]
+    },
+    {
+        "tipo": "test",
+        "tema": 6,
+        "texto": "Las herramientas de neuromarketing se clasifican en el estudio del cerebro en cuanto a...",
+        "opciones": [
+            "metabolismo.",
+            "actividad eléctrica.",
+            "obviar el estudio del cerebro.",
+            "Todas las respuestas son correctas."
+        ],
+        "respuesta": "a"
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 6,
+        "texto": "La Tomografía de Emisión de Positrones estudia el material [ radiactivo | genético | cerebral ] que se acumula en regiones [ activas | pasivas | dañadas ] del cerebro.",
+        "respuesta": [
+            "radiactivo",
+            "activas"
+        ]
+    },
+    {
+        "tipo": "corchetes",
+        "tema": 6,
+        "texto": "La tecnología para la obtención de información analizando [ patrones | movimientos ] oculares y [ fijación | desplazamiento ] visual se denomina [ eye-tracking | visual-tracking ].",
+        "respuesta": [
+            "movimientos",
+            "fijación",
+            "eye-tracking"
+        ]
+    }
+]
